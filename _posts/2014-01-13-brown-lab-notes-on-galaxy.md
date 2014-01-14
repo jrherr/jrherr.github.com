@@ -1,6 +1,6 @@
 ---
 layout: post
-category : notes
+category : laboratory meeting notes
 tags : [Galaxy, khmer, k-mers, Galaxy tool development, bioinformatics]
 ---
 {% include JB/setup %}

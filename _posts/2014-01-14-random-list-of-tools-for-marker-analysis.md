@@ -7,7 +7,7 @@ tags : [amplicons, marker gene analysis, phylogenetics, environmental sampling, 
 
 ### Random list of the ever growing tools for marker gene analysis or mixed samples:
 
-AMPHORA2, 
+[AMPHORA2](https://github.com/martinwu/AMPHORA2)
 
 CARMA, 
 
@@ -24,6 +24,8 @@ MetaPhlAn,
 MetaPhyler, 
 
 MLTreeMap, 
+
+[mothur](http://www.mothur.org/)
 
 mOTUs, 
 
