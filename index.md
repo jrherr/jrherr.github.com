@@ -5,24 +5,19 @@ tagline: Notes for myself and (maybe) others
 ---
 {% include JB/setup %}
 
-This is a place for me to sync notes I have taken -- mainly for myself but some of these notes may be of use to others.  
+### This is a place for me to sync notes I have taken -- mainly for myself but some of these notes may be of use to others.  
 
-Please see the following places for more information on me:
+### Please see the following places for more information on me:
 
-Website: [Joshua R. Herr](http://joshuaherr.com)
+### Website: [Joshua R. Herr](http://joshuaherr.com)
 
-Blog: [Cyme & Cystidium](http://cymeandcystidium.com)
+### Blog: [Cyme & Cystidium](http://cymeandcystidium.com)
 
-Twitter: [number_three](https://twitter.com/number_three)
+### Twitter: [number_three](https://twitter.com/number_three)
 
-Some things I am involved with:
-
-[GitHub](https://github.com/jrherr)
-
+### For more information: [GitHub](https://github.com/jrherr)
 [Google Scholar](http://scholar.google.com/citations?user=ZDnMer4AAAAJ&hl=en)
-
 [Biostar](http://www.biostars.org/u/1704/)
-
 [Software Carpentry](http://software-carpentry.org/pages/team.html)
 
 ## Notes:
