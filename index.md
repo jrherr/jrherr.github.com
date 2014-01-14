@@ -8,14 +8,18 @@ tagline: Notes for myself and (maybe) others
 This is a place for me to sync notes I have taken -- mainly for myself but some of these notes may be of use to others.  
 
 Please see the following places for more information on me:
+
 Website: [Joshua R. Herr](http://joshuaherr.com)
+
 Blog: [Cyme & Cystidium](http://cymeandcystidium.com)
+
 Twitter: [number_three](https://twitter.com/number_three)
+
 Some things I am involved with:
-  [GitHub](https://github.com/jrherr)
-  [Google Scholar](http://scholar.google.com/citations?user=ZDnMer4AAAAJ&hl=en)
-  [Biostar](http://www.biostars.org/u/1704/)
-  [Software Carpentry](http://software-carpentry.org/pages/team.html)
+    [GitHub](https://github.com/jrherr)
+    [Google Scholar](http://scholar.google.com/citations?user=ZDnMer4AAAAJ&hl=en)
+    [Biostar](http://www.biostars.org/u/1704/)
+    [Software Carpentry](http://software-carpentry.org/pages/team.html)
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
@@ -42,17 +46,12 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
 
     $ rm -rf _posts/core-samples
 
-Here's a sample "posts list".
+## Notes:
 
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
