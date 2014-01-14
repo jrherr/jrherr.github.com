@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Josh Herr's Open Notebook
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
