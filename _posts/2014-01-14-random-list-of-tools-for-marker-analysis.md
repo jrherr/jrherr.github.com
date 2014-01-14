@@ -1,11 +1,11 @@
 ---
 layout: post
 category : notes
-tags : [Galaxy, khmer, k-mers, Galaxy tool development]
+tags : [amplicons, marker gene analysis, phylogenetics, environmental sampling, microbiology]
 ---
 {% include JB/setup %}
 
-Random list of the ever growing tools for marker gene analysis or mixed samples:
+### Random list of the ever growing tools for marker gene analysis or mixed samples:
 
 AMPHORA2, 
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 category : notes
-tags : [Galaxy, khmer, k-mers, Galaxy tool development]
+tags : [Galaxy, khmer, k-mers, Galaxy tool development, bioinformatics]
 ---
 {% include JB/setup %}
 
-## Brown Lab Meeting Notes on implementation of khmer in Galaxy
+### Brown Lab Meeting Notes on implementation of khmer in Galaxy
 
 Michael presented his efforts in getting the Eel pond dataset into a Galaxy workflow so that the khmer protocols will be
 easily accessible for those who are not so command line savvy.
