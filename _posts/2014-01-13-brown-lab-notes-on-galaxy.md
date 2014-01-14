@@ -1,7 +1,6 @@
 ---
 layout: post
 category : notes
-tagline: "Supporting tagline"
 tags : [Galaxy, khmer, k-mers, Galaxy tool development]
 ---
 {% include JB/setup %}

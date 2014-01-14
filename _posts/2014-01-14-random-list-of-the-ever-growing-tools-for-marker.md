@@ -1,22 +1,47 @@
+---
+layout: post
+category : notes
+tags : [Galaxy, khmer, k-mers, Galaxy tool development]
+---
+{% include JB/setup %}
+
 Random list of the ever growing tools for marker gene analysis or mixed samples:
 
 AMPHORA2, 
+
 CARMA, 
+
 ClaMS, 
+
 DiScRIBinATE, 
-FCP/RITA for WGS
+
+FCP/RITA
+
 MEGAN, 
+
 MetaPhlAn, 
+
 MetaPhyler, 
+
 MLTreeMap, 
+
 mOTUs, 
+
 NBC, 
+
 PhyloPythia, 
+
 Phylosift, 
-PhylOTU for marker-based. 
+
+PhylOTU 
+
 PhymmBL, 
+
 RAIphy, 
-ribosomal MLST, others, 
+
+ribosomal MLST 
+
 specI, 
+
 TaxSOM, 
 
