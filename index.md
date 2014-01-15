@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Josh Herr's Open Notebook
-tagline: Notes for myself and (maybe) others
+tagline: 
 ---
 {% include JB/setup %}
 
@@ -15,7 +15,7 @@ tagline: Notes for myself and (maybe) others
 
 #### Twitter: [number_three](https://twitter.com/number_three)
 
-#### For more information: [GitHub](https://github.com/jrherr) [Google Scholar](http://scholar.google.com/citations?user=ZDnMer4AAAAJ&hl=en) [Biostar](http://www.biostars.org/u/1704/) [Software Carpentry](http://software-carpentry.org/pages/team.html)
+#### For more information: [GitHub](https://github.com/jrherr) | [Google Scholar](http://scholar.google.com/citations?user=ZDnMer4AAAAJ&hl=en) | [Biostar](http://www.biostars.org/u/1704/) | [Software Carpentry](http://software-carpentry.org/pages/team.html)
 
 ## Notes:
 
