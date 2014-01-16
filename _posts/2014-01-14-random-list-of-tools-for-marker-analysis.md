@@ -1,49 +1,53 @@
 ---
 layout: post
 category : notes
-tags : [amplicons, marker gene analysis, phylogenetics, environmental sampling, microbiology]
+tags : [amplicons, marker gene analysis, metagenomics, phylogenetics, environmental sampling, microbiology]
 ---
 {% include JB/setup %}
 
-### Random list of the ever growing tools for marker gene analysis or mixed samples:
+### Random list of the ever growing tools for marker gene analysis or taxonomic/functional identification of metagenomic reads:
 
 [AMPHORA2](https://github.com/martinwu/AMPHORA2)
 
-CARMA, 
+[CARMA3 / WebCarma](http://webcarma.cebitec.uni-bielefeld.de/)
 
-ClaMS, 
+[ClaMS](http://clams.jgi-psf.org/), 
 
-DiScRIBinATE, 
+[DiScRIBinATE](http://metagenomics.atc.tcs.com/binning/DiScRIBinATE/)
 
-FCP/RITA
+[FCP](http://kiwi.cs.dal.ca/Software/FCP) / [RITA](http://kiwi.cs.dal.ca/Software/RITA)
 
-MEGAN, 
+[MEGAN5](http://ab.inf.uni-tuebingen.de/software/megan5/) 
 
-MetaPhlAn, 
+[MetaPhlAn](http://huttenhower.sph.harvard.edu/metaphlan)
 
-MetaPhyler, 
+[MetaPhyler](http://metaphyler.cbcb.umd.edu/)
 
-MLTreeMap, 
+[MLTreeMap](http://mltreemap.org/) 
 
 [mothur](http://www.mothur.org/)
 
-mOTUs, 
+[mOTUs](http://www.bork.embl.de/software/mOTU/)
 
-NBC, 
+[NBC](http://nbc.ece.drexel.edu/)
 
-PhyloPythia, 
+[PhyloPythia](http://cbcsrv.watson.ibm.com/phylopythia.html)
 
-Phylosift, 
+[Phylosift](http://phylosift.wordpress.com/)
 
 PhylOTU 
 
-PhymmBL, 
+[PhymmBL](http://www.cbcb.umd.edu/software/phymm/)
+
+[QIIME](http://qiime.org/)
 
 RAIphy, 
 
-ribosomal MLST 
+[rMLST](http://pubmlst.org/rmlst/)
 
 specI, 
 
-TaxSOM, 
+TaxSOM,
+
+[Topiary Explorer](http://topiaryexplorer.sourceforge.net/)
 
