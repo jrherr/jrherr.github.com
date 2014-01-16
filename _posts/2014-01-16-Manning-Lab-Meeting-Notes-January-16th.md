@@ -1,3 +1,10 @@
+---
+layout: post
+category : notes
+tags : [Laboratory Meeting Notes, MLST analysis, GBS, Escherichia coli, Campylobacter]
+---
+{% include JB/setup %}
+
 ### Manning Lab Meeting Notes - Thursday January 16th 2014
 
 #### GBS 
