@@ -5,9 +5,9 @@ tagline:
 ---
 {% include JB/setup %}
 
-#### This is a place for me to sync notes I have taken -- mainly for myself but some of these notes may be of use to others.  
+#### This is a place for me to sync notes -- mainly for myself -- but some of these notes may be useful to others.  Please feel free to comment or contact me if you have any questions.  
 
-#### Please see the following places for more information on me:
+#### Please see the following places for more information or to contact me:
 
 #### Website: [Joshua R. Herr](http://joshuaherr.com)
 
