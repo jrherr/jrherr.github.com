@@ -11,7 +11,7 @@ tags : [amplicons, marker gene analysis, metagenomics, phylogenetics, environmen
 
 [CARMA3 / WebCarma](http://webcarma.cebitec.uni-bielefeld.de/)
 
-[ClaMS](http://clams.jgi-psf.org/), 
+[ClaMS](http://clams.jgi-psf.org/)
 
 [DiScRIBinATE](http://metagenomics.atc.tcs.com/binning/DiScRIBinATE/)
 
@@ -35,19 +35,19 @@ tags : [amplicons, marker gene analysis, metagenomics, phylogenetics, environmen
 
 [Phylosift](http://phylosift.wordpress.com/)
 
-PhylOTU 
+PhylOTU
 
 [PhymmBL](http://www.cbcb.umd.edu/software/phymm/)
 
 [QIIME](http://qiime.org/)
 
-RAIphy, 
+RAIphy
 
 [rMLST](http://pubmlst.org/rmlst/)
 
-specI, 
+specI
 
-TaxSOM,
+TaxSOM
 
 [Topiary Explorer](http://topiaryexplorer.sourceforge.net/)
 
