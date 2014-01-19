@@ -40,8 +40,3 @@ Campy sample 456 mixed?
 Pull Campy genomes and raw data and go over assemblies and annotations for public resources to compare to our in house strain genomes.
 
 Spec*Taq*ular - our own brand of Taq polymerase?
-
-
-#### ERIN
-
-#### Phage Stuff
