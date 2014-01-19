@@ -1,6 +1,6 @@
 ---
 layout: post
-category : notes
+category : laboratory meeting notes
 tags : [Laboratory Meeting Notes, MLST analysis, GBS, Escherichia coli, Campylobacter]
 ---
 {% include JB/setup %}

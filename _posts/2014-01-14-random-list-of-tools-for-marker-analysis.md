@@ -17,13 +17,13 @@ tags : [amplicons, marker gene analysis, metagenomics, phylogenetics, environmen
 
 [FCP](http://kiwi.cs.dal.ca/Software/FCP) / [RITA](http://kiwi.cs.dal.ca/Software/RITA)
 
-[MEGAN5](http://ab.inf.uni-tuebingen.de/software/megan5/) 
+[MEGAN5](http://ab.inf.uni-tuebingen.de/software/megan5/)
 
 [MetaPhlAn](http://huttenhower.sph.harvard.edu/metaphlan)
 
 [MetaPhyler](http://metaphyler.cbcb.umd.edu/)
 
-[MLTreeMap](http://mltreemap.org/) 
+[MLTreeMap](http://mltreemap.org/)
 
 [mothur](http://www.mothur.org/)
 
@@ -35,19 +35,19 @@ tags : [amplicons, marker gene analysis, metagenomics, phylogenetics, environmen
 
 [Phylosift](http://phylosift.wordpress.com/)
 
-PhylOTU
+[PhylOTU](https://github.com/sharpton/PhylOTU)
 
 [PhymmBL](http://www.cbcb.umd.edu/software/phymm/)
 
 [QIIME](http://qiime.org/)
 
-RAIphy
+[RAIphy](http://bioinfo.unl.edu/raiphy.php)
 
 [rMLST](http://pubmlst.org/rmlst/)
 
 specI
 
-TaxSOM
+[TaxSOM](http://soma.arb-silva.de/)
 
 [Topiary Explorer](http://topiaryexplorer.sourceforge.net/)
 
