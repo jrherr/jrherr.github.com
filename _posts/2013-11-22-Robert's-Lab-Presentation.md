@@ -12,10 +12,15 @@ Biofilm production, quorum sensing, and association with decidual cells in GBS
 Some papers of interest in this area:
 
 Bishart <i>et al</i> 2004 [Hyperinvasive Neonatal Group B Streptococcus Has Arisen from a Bovine Ancestor](http://jcm.asm.org/content/42/5/2161.short)
+
 Bishart <i>et al</i> 2005 [Population structure of group B streptococcus from a low-incidence region for invasive neonatal disease](http://mic.sgmjournals.org/content/151/6/1875.short)
+
 Davies <i>et al</i> 2004 [Multilocus Sequence Typing of Serotype III Group B Streptococcus and Correlation with Pathogenic Potential](http://jid.oxfordjournals.org/content/189/6/1097.short)
+
 Maisey <i>et al</i> 2008 [Recent advances in understanding the molecular basis of group B Streptococcus virulence](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=2202784)
+
 Kleerebezem <i>et al</i> 1997 [Quorum sensing by peptide pheromones and two-component signal-transduction systems in Gram-positive bacteria](http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2958.1997.4251782.x/abstract)
+
 Ulrich <i>et al</i> 2005 [One-component systems dominate signal transduction in prokaryotes](http://www.sciencedirect.com/science/article/pii/S0966842X04002720)
 
 Interplay of each system in biofilm formation:
