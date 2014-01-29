@@ -1,3 +1,10 @@
+---
+layout: post
+category : seminar presentation notes
+tags : [Seminar Notes, Human Microbiome, Mouse Models, Cattle]
+---
+{% include JB/setup %}
+
 ## Andy Benson Seminar Notes
 
 Gave presentation at Michigan State University Microbiology & Molecular Genetics Department Seminar on December 3rd, 2012.
