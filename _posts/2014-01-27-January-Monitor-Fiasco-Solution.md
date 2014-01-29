@@ -7,7 +7,9 @@ tags : [Notes, Computer, Troubleshooting]
 
 ## Monitor Fiasco January 2014
 
-These links helped me get where I was going to solve the issue:
+On my work desktop, I'm running [Ubuntu 13.10 (Saucy Salanader)](http://releases.ubuntu.com/saucy/) and I have (or <i>had</i>, before the <i>foobar</i>) [NVIDIA proprietary graphics drivers](http://www.nvidia.com/object/unix.html) installed.
+
+Just in case something like this happens again, these links helped me get where I was going to solve the issue:
 
 [Ubuntu Community Troubleshooting](https://help.ubuntu.com/community/Troubleshooting)
 
@@ -21,8 +23,6 @@ code: [Fullscreen secondary monitor nvidia](http://pastebin.com/mcweUUZm)
 
 [Nvidia Dual Displays not being detected](http://askubuntu.com/questions/103317/nvidia-dual-displays-not-being-detected)
 
+...and once the previous links got me to where I was going, these two links: [Blank screen after installing nvidia restricted driver](http://askubuntu.com/questions/41681/blank-screen-after-installing-nvidia-restricted-driver) and [No second monitor and other problems](http://askubuntu.com/questions/288541/13-04-nvidia-geforce-8800-gts-no-second-monitor-and-other-problems) provided me with the following code which solved my mess:
 
 
-[Blank screen after installing nvidia restricted driver](http://askubuntu.com/questions/41681/blank-screen-after-installing-nvidia-restricted-driver)
-
-[No second monitor and other problems](http://askubuntu.com/questions/288541/13-04-nvidia-geforce-8800-gts-no-second-monitor-and-other-problems)
