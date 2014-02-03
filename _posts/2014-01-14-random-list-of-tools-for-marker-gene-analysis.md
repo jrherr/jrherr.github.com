@@ -23,6 +23,8 @@ tags : [amplicons, marker gene analysis, metagenomics, phylogenetics, environmen
 
 [MetaPhyler](http://metaphyler.cbcb.umd.edu/)
 
+[Metaxa2](http://microbiology.se/software/metaxa2/)
+
 [MLTreeMap](http://mltreemap.org/)
 
 [mothur](http://www.mothur.org/)
