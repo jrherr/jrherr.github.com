@@ -3,97 +3,20 @@ layout: page
 title: Search
 header: Search
 group: navigation
+tagline: using Google Custom Search
 ---
 {% include JB/setup %}
 
-<h2>All Pages</h2>
-<ul>
-{% assign pages_list = site.pages %}
-{% include JB/pages_list %}
-</ul>
-
-
-
-<!DOCTYPE html>
-<!-- saved from url=(0031)http://10consulting.com/search/ -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  	<title>Search all posts - Binary Consulting</title>
-
-    <link rel="stylesheet" href="./Search all posts - Binary Consulting_files/site.min.css" type="text/css" media="screen">
-
-
-	<link rel="alternate" type="application/rss+xml" title="Binary Consulting RSS Feed" href="http://10consulting.com/rss.xml">
-	<link rel="alternate" type="application/atom+xml" title="Binary Consulting Atom Feed" href="http://10consulting.com/atom.xml">
-</head>
-
-<body>
-
-<div class="container">
-	<article>
-	  <header>
-	  <h1>Search all posts</h1>
-	</header>
-
-		<div id="search" class="text-center">
-  <form action="http://10consulting.com/search" method="get">
-    <input type="text" id="search-query" class="search-query" name="q" placeholder="Search" autocomplete="off">
-  </form>
-</div>
-
-<section id="search-results">
-  <div class="entries">
-  </div>
-</section>
-
-
-<script type="text/javascript" async="" id="gauges-tracker" data-site-id="4e5d0698f5a1f52b46000001" src="./Search all posts - Binary Consulting_files/track.js"></script><script id="search-results-template" type="text/mustache">
-  {{#entries}}
-    <article>
-      <h3>
-        {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
-        <a href="{{url}}">{{title}}</a></h3>
-    </article>
-  {{/entries}}
-</script>
-
-
-<script src="./Search all posts - Binary Consulting_files/search.min.js" type="text/javascript" charset="utf-8"></script>
-
-
-<script type="text/javascript">
-  $(function() {
-    $('#search-query').lunrSearch({
-      index:    '/search.json',
-      results:  '#search-results',
-      entries:  '.entries',
-      template: '#search-results-template'
-    });
-  });
-</script>
-	</article>
-
-	 <hr>
-
-</div>
-
-
-<script type="text/javascript">
-  var _gauges = _gauges || [];
+<script>
   (function() {
-	if (window.location.hostname == 'localhost') return;
-
-    var t   = document.createElement('script');
-    t.type  = 'text/javascript';
-    t.async = true;
-    t.id    = 'gauges-tracker';
-    t.setAttribute('data-site-id', '4e5d0698f5a1f52b46000001');
-    t.src = '//secure.gaug.es/track.js';
+    var cx = '013573190517108741382:7xd8xnepkpi';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
     var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(t, s);
+    s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-</div>
-</body>
-</html>
+<gcse:search></gcse:search>
