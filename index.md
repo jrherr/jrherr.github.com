@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Josh Herr's Open Notebook
-tagline: 
 ---
-{% include JB/setup %}
 
 #### This is a place for me to sync notes -- mainly for myself -- but some of these notes may be useful to others.  Please feel free to comment or contact me if you have any questions.  
 
