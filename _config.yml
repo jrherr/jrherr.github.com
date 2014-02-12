@@ -30,12 +30,12 @@ include: ['.htaccess', 'JB/setup']
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Reason I am here
+title : Josh Herr's Open Notebook
 author :
-  name : Nacho Caballero
-  email : nachocab@gmail.com
-  github : nachocab
-  twitter : nachocaballero
+  name : Josh Herr
+  email : joshua.r.herr@gmail.com
+  github : jrherr
+  twitter : number_three
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -46,7 +46,7 @@ author :
 # replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://nachocab.github.io
+production_url : http://jrherr.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -103,7 +103,7 @@ JB :
   comments :
     provider : true
     disqus :
-      short_name : nachocab
+      short_name : joshherr
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -112,7 +112,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-42664204-1'
+        tracking_id :
     getclicky :
       site_id :
     mixpanel :
